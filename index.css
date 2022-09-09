@@ -23,15 +23,15 @@ div {
   margin: 1.4vmax;
 }
 
-div.title1 {
-  margin-top: 2.9vmax;
+div.title {
+  margin-top: 3.3vmax;
   margin-bottom: 0vmax;
   color: #dc582a;
 }
 
-div.title2 {
+div.subtitle {
   margin-top: -2.5vmax;
-  margin-bottom: 2.9vmax;
+  margin-bottom: 3.3vmax;
   color: #dc582a;
 }
 
