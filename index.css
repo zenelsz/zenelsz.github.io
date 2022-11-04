@@ -40,12 +40,12 @@ strong {
 }
 
 a {
-  color: white;
+  color: #dc582a;
   text-decoration-color: #dc582a;
 }
 
 a:visited {
-  color: white;
+  color: #dc582a;
   text-decoration-color: #dc582a;
 }
 
@@ -84,4 +84,10 @@ dd {
   width: 96%; /* add up to 100% */
   padding: 0;
   margin: 0;
+}
+
+iframe.audio {
+  border: none;
+  width: 24vmax;
+  height: 6vmax;
 }
